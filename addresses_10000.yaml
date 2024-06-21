@@ -1,0 +1,301 @@
+AddressList:
+- Address:
+    PoolName: Pool-Lot-101
+    IPv4Pool: 70.70.37.129/25
+- Address:
+    PoolName: Pool-Lot-102
+    IPv4Pool: 70.70.38.1/25
+- Address:
+    PoolName: Pool-Lot-103
+    IPv4Pool: 70.70.38.129/25
+- Address:
+    PoolName: Pool-Lot-104
+    IPv4Pool: 70.70.39.1/25
+- Address:
+    PoolName: Pool-Lot-105
+    IPv4Pool: 70.70.39.129/25
+- Address:
+    PoolName: Pool-Lot-106
+    IPv4Pool: 70.70.40.1/25
+- Address:
+    PoolName: Pool-Lot-107
+    IPv4Pool: 70.70.40.129/25
+- Address:
+    PoolName: Pool-Lot-108
+    IPv4Pool: 70.70.41.1/25
+- Address:
+    PoolName: Pool-Lot-109
+    IPv4Pool: 70.70.41.129/25
+- Address:
+    PoolName: Pool-Lot-110
+    IPv4Pool: 70.70.42.1/25
+- Address:
+    PoolName: Pool-Lot-111
+    IPv4Pool: 70.70.42.129/25
+- Address:
+    PoolName: Pool-Lot-112
+    IPv4Pool: 70.70.43.1/25
+- Address:
+    PoolName: Pool-Lot-113
+    IPv4Pool: 70.70.43.129/25
+- Address:
+    PoolName: Pool-Lot-114
+    IPv4Pool: 70.70.44.1/25
+- Address:
+    PoolName: Pool-Lot-115
+    IPv4Pool: 70.70.44.129/25
+- Address:
+    PoolName: Pool-Lot-116
+    IPv4Pool: 70.70.45.1/25
+- Address:
+    PoolName: Pool-Lot-117
+    IPv4Pool: 70.70.45.129/25
+- Address:
+    PoolName: Pool-Lot-118
+    IPv4Pool: 70.70.46.1/25
+- Address:
+    PoolName: Pool-Lot-119
+    IPv4Pool: 70.70.46.129/25
+- Address:
+    PoolName: Pool-Lot-120
+    IPv4Pool: 70.70.47.1/25
+- Address:
+    PoolName: Pool-Lot-121
+    IPv4Pool: 70.70.47.129/25
+- Address:
+    PoolName: Pool-Lot-122
+    IPv4Pool: 70.70.48.1/25
+- Address:
+    PoolName: Pool-Lot-123
+    IPv4Pool: 70.70.48.129/25
+- Address:
+    PoolName: Pool-Lot-124
+    IPv4Pool: 70.70.49.1/25
+- Address:
+    PoolName: Pool-Lot-125
+    IPv4Pool: 70.70.49.129/25
+- Address:
+    PoolName: Pool-Lot-126
+    IPv4Pool: 70.70.50.1/25
+- Address:
+    PoolName: Pool-Lot-127
+    IPv4Pool: 70.70.50.129/25
+- Address:
+    PoolName: Pool-Lot-128
+    IPv4Pool: 70.70.51.1/25
+- Address:
+    PoolName: Pool-Lot-129
+    IPv4Pool: 70.70.51.129/25
+- Address:
+    PoolName: Pool-Lot-130
+    IPv4Pool: 70.70.52.1/25
+- Address:
+    PoolName: Pool-Lot-131
+    IPv4Pool: 70.70.52.129/25
+- Address:
+    PoolName: Pool-Lot-132
+    IPv4Pool: 70.70.53.1/25
+- Address:
+    PoolName: Pool-Lot-133
+    IPv4Pool: 70.70.53.129/25
+- Address:
+    PoolName: Pool-Lot-134
+    IPv4Pool: 70.70.54.1/25
+- Address:
+    PoolName: Pool-Lot-135
+    IPv4Pool: 70.70.54.129/25
+- Address:
+    PoolName: Pool-Lot-136
+    IPv4Pool: 70.70.55.1/25
+- Address:
+    PoolName: Pool-Lot-137
+    IPv4Pool: 70.70.55.129/25
+- Address:
+    PoolName: Pool-Lot-138
+    IPv4Pool: 70.70.56.1/25
+- Address:
+    PoolName: Pool-Lot-139
+    IPv4Pool: 70.70.56.129/25
+- Address:
+    PoolName: Pool-Lot-140
+    IPv4Pool: 70.70.57.1/25
+- Address:
+    PoolName: Pool-Lot-141
+    IPv4Pool: 70.70.57.129/25
+- Address:
+    PoolName: Pool-Lot-142
+    IPv4Pool: 70.70.58.1/25
+- Address:
+    PoolName: Pool-Lot-143
+    IPv4Pool: 70.70.58.129/25
+- Address:
+    PoolName: Pool-Lot-144
+    IPv4Pool: 70.70.59.1/25
+- Address:
+    PoolName: Pool-Lot-145
+    IPv4Pool: 70.70.59.129/25
+- Address:
+    PoolName: Pool-Lot-146
+    IPv4Pool: 70.70.60.1/25
+- Address:
+    PoolName: Pool-Lot-147
+    IPv4Pool: 70.70.60.129/25
+- Address:
+    PoolName: Pool-Lot-148
+    IPv4Pool: 70.70.61.1/25
+- Address:
+    PoolName: Pool-Lot-149
+    IPv4Pool: 70.70.61.129/25
+- Address:
+    PoolName: Pool-Lot-150
+    IPv4Pool: 70.70.62.1/25
+- Address:
+    PoolName: Pool-Lot-151
+    IPv4Pool: 70.70.62.129/25
+- Address:
+    PoolName: Pool-Lot-152
+    IPv4Pool: 70.70.63.1/25
+- Address:
+    PoolName: Pool-Lot-153
+    IPv4Pool: 70.70.63.129/25
+- Address:
+    PoolName: Pool-Lot-154
+    IPv4Pool: 70.70.64.1/25
+- Address:
+    PoolName: Pool-Lot-155
+    IPv4Pool: 70.70.64.129/25
+- Address:
+    PoolName: Pool-Lot-156
+    IPv4Pool: 70.70.65.1/25
+- Address:
+    PoolName: Pool-Lot-157
+    IPv4Pool: 70.70.65.129/25
+- Address:
+    PoolName: Pool-Lot-158
+    IPv4Pool: 70.70.66.1/25
+- Address:
+    PoolName: Pool-Lot-159
+    IPv4Pool: 70.70.66.129/25
+- Address:
+    PoolName: Pool-Lot-160
+    IPv4Pool: 70.70.67.1/25
+- Address:
+    PoolName: Pool-Lot-161
+    IPv4Pool: 70.70.67.129/25
+- Address:
+    PoolName: Pool-Lot-162
+    IPv4Pool: 70.70.68.1/25
+- Address:
+    PoolName: Pool-Lot-163
+    IPv4Pool: 70.70.68.129/25
+- Address:
+    PoolName: Pool-Lot-164
+    IPv4Pool: 70.70.69.1/25
+- Address:
+    PoolName: Pool-Lot-165
+    IPv4Pool: 70.70.69.129/25
+- Address:
+    PoolName: Pool-Lot-166
+    IPv4Pool: 70.70.70.1/25
+- Address:
+    PoolName: Pool-Lot-167
+    IPv4Pool: 70.70.70.129/25
+- Address:
+    PoolName: Pool-Lot-168
+    IPv4Pool: 70.70.71.1/25
+- Address:
+    PoolName: Pool-Lot-169
+    IPv4Pool: 70.70.71.129/25
+- Address:
+    PoolName: Pool-Lot-170
+    IPv4Pool: 70.70.72.1/25
+- Address:
+    PoolName: Pool-Lot-171
+    IPv4Pool: 70.70.72.129/25
+- Address:
+    PoolName: Pool-Lot-172
+    IPv4Pool: 70.70.73.1/25
+- Address:
+    PoolName: Pool-Lot-173
+    IPv4Pool: 70.70.73.129/25
+- Address:
+    PoolName: Pool-Lot-174
+    IPv4Pool: 70.70.74.1/25
+- Address:
+    PoolName: Pool-Lot-175
+    IPv4Pool: 70.70.74.129/25
+- Address:
+    PoolName: Pool-Lot-176
+    IPv4Pool: 70.70.75.1/25
+- Address:
+    PoolName: Pool-Lot-177
+    IPv4Pool: 70.70.75.129/25
+- Address:
+    PoolName: Pool-Lot-178
+    IPv4Pool: 70.70.76.1/25
+- Address:
+    PoolName: Pool-Lot-179
+    IPv4Pool: 70.70.76.129/25
+- Address:
+    PoolName: Pool-Lot-180
+    IPv4Pool: 70.70.77.1/25
+- Address:
+    PoolName: Pool-Lot-181
+    IPv4Pool: 70.70.77.129/25
+- Address:
+    PoolName: Pool-Lot-182
+    IPv4Pool: 70.70.78.1/25
+- Address:
+    PoolName: Pool-Lot-183
+    IPv4Pool: 70.70.78.129/25
+- Address:
+    PoolName: Pool-Lot-184
+    IPv4Pool: 70.70.79.1/25
+- Address:
+    PoolName: Pool-Lot-185
+    IPv4Pool: 70.70.79.129/25
+- Address:
+    PoolName: Pool-Lot-186
+    IPv4Pool: 70.70.80.1/25
+- Address:
+    PoolName: Pool-Lot-187
+    IPv4Pool: 70.70.80.129/25
+- Address:
+    PoolName: Pool-Lot-188
+    IPv4Pool: 70.70.81.1/25
+- Address:
+    PoolName: Pool-Lot-189
+    IPv4Pool: 70.70.81.129/25
+- Address:
+    PoolName: Pool-Lot-190
+    IPv4Pool: 70.70.82.1/25
+- Address:
+    PoolName: Pool-Lot-191
+    IPv4Pool: 70.70.82.129/25
+- Address:
+    PoolName: Pool-Lot-192
+    IPv4Pool: 70.70.83.1/25
+- Address:
+    PoolName: Pool-Lot-193
+    IPv4Pool: 70.70.83.129/25
+- Address:
+    PoolName: Pool-Lot-194
+    IPv4Pool: 70.70.84.1/25
+- Address:
+    PoolName: Pool-Lot-195
+    IPv4Pool: 70.70.84.129/25
+- Address:
+    PoolName: Pool-Lot-196
+    IPv4Pool: 70.70.85.1/25
+- Address:
+    PoolName: Pool-Lot-197
+    IPv4Pool: 70.70.85.129/25
+- Address:
+    PoolName: Pool-Lot-198
+    IPv4Pool: 70.70.86.1/25
+- Address:
+    PoolName: Pool-Lot-199
+    IPv4Pool: 70.70.86.129/25
+- Address:
+    PoolName: Pool-Lot-200
+    IPv4Pool: 70.70.87.1/25
